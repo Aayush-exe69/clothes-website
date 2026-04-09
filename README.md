@@ -7,13 +7,9 @@ It displays various clothing items, including sweaters, skirts, hoodies, and one
 
 ## Features
 - Responsive design for mobile and desktop
-- Cat animation following the mouse (fun interactive element)
 - Product gallery with hover effects
 - Smooth scrolling navigation
 - Swiper.js carousel for featured products or testimonials
 - Modern and clean layout with CSS animations
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/clothing-brand-website.git
+
